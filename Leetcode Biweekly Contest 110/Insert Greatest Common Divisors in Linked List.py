@@ -22,12 +22,6 @@ There are no pairs of adjacent nodes, so we return the initial linked list.
 """
 
 # Solution - 
-
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution:
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
         # your code here
