@@ -15,3 +15,9 @@ length_input = int(input())
 
 result_output = find_string(rank_input, length_input)
 print(result_output)
+
+"""
+NOTE:- Wrong output for second input - 
+29
+2
+"""
