@@ -24,3 +24,7 @@ for letter in name:
     total_distance += min_distance
 
 print(total_distance)
+
+"""
+NOTE:- Getting wrong output for the second input. Do it in your own risk.
+"""
